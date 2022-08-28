@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="string_name">Name</string>
+    <string name="string_fresh">Làm mới</string>
+    <string name="string_email">Email</string>
+    <string name="save">Lưu</string>
+    <string name="string_sua">sửa</string>
+    <string name="string_xoa">Xóa</string>
+</resources>
